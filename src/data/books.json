@@ -1,0 +1,170 @@
+{
+  "books": [
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Classic Fiction",
+      "publishedYear": 1925,
+      "description": "A novel about the American Dream and the roaring 1920s.",
+      "coverImageUrl": "https://covers.openlibrary.org/b/id/7222246-L.jpg",
+      "pages": 180,
+      "language": "English",
+      "id": "86c2"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Historical Fiction",
+      "publishedYear": 1960,
+      "description": "A story of racial injustice and childhood innocence in the American South.",
+      "coverImageUrl": "https://covers.openlibrary.org/b/id/8225265-L.jpg",
+      "pages": 281,
+      "language": "English",
+      "id": "6225"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "publishedYear": 1949,
+      "description": "A dystopian novel about surveillance and totalitarianism.",
+      "coverImageUrl": "https://covers.openlibrary.org/b/id/7222246-L.jpg",
+      "pages": 328,
+      "language": "English",
+      "id": "7c27"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "publishedYear": 1813,
+      "description": "A classic novel of manners, love, and social standing.",
+      "coverImageUrl": "https://covers.openlibrary.org/b/id/8062856-L.jpg",
+      "pages": 279,
+      "language": "English",
+      "id": "500e"
+    },
+    {
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "genre": "Adventure",
+      "publishedYear": 1851,
+      "description": "The quest for revenge against the white whale, Moby Dick.",
+      "coverImageUrl": "https://covers.openlibrary.org/b/id/7222276-L.jpg",
+      "pages": 585,
+      "language": "English",
+      "id": "c951"
+    },
+    {
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "genre": "Historical Fiction",
+      "publishedYear": 1869,
+      "description": "A complex novel that intertwines themes of war, peace, and family.",
+      "coverImageUrl": "https://covers.openlibrary.org/b/id/7234616-L.jpg",
+      "pages": 1225,
+      "language": "English",
+      "id": "ef7f"
+    },
+    {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "genre": "Epic Poetry",
+      "publishedYear": -800,
+      "description": "The epic journey of Odysseus returning home from the Trojan War.",
+      "coverImageUrl": "https://covers.openlibrary.org/b/id/7974156-L.jpg",
+      "pages": 541,
+      "language": "English",
+      "id": "4978"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "publishedYear": 1951,
+      "description": "A novel about teenage rebellion and the quest for identity.",
+      "coverImageUrl": "https://covers.openlibrary.org/b/id/7984187-L.jpg",
+      "pages": 277,
+      "language": "English",
+      "id": "883c"
+    },
+    {
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Philosophical Fiction",
+      "publishedYear": 1880,
+      "description": "A profound exploration of faith, family, and morality.",
+      "coverImageUrl": "https://covers.openlibrary.org/b/id/7028781-L.jpg",
+      "pages": 796,
+      "language": "English",
+      "id": "3a8d"
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "publishedYear": 1937,
+      "description": "A young hobbit’s adventure in a world of dwarves and dragons.",
+      "coverImageUrl": "https://covers.openlibrary.org/b/id/7944294-L.jpg",
+      "pages": 310,
+      "language": "English",
+      "id": "9f85"
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Dystopian",
+      "publishedYear": 1932,
+      "description": "A dystopian vision of a future society driven by consumerism and technological control.",
+      "coverImageUrl": "https://covers.openlibrary.org/b/id/8040235-L.jpg",
+      "pages": 311,
+      "language": "English",
+      "id": "ddfb"
+    },
+    {
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "genre": "Historical Fiction",
+      "publishedYear": 1939,
+      "description": "A story of hardship and migration during the Great Depression.",
+      "coverImageUrl": "https://covers.openlibrary.org/b/id/7169340-L.jpg",
+      "pages": 464,
+      "language": "English",
+      "id": "9c44"
+    },
+    {
+      "title": "The Sun Also Rises",
+      "author": "Ernest Hemingway",
+      "genre": "Fiction",
+      "publishedYear": 1926,
+      "description": "A story about a group of expatriates in post-World War I Europe.",
+      "coverImageUrl": "https://covers.openlibrary.org/b/id/8030296-L.jpg",
+      "pages": 251,
+      "language": "English",
+      "id": "7c7b"
+    },
+    {
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "genre": "Realist Fiction",
+      "publishedYear": 1878,
+      "description": "A tragic story of love, infidelity, and social change in Russia.",
+      "coverImageUrl": "https://covers.openlibrary.org/b/id/7209361-L.jpg",
+      "pages": 864,
+      "language": "English",
+      "id": "4dff"
+    },
+    {
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "genre": "Gothic Fiction",
+      "publishedYear": 1897,
+      "description": "A story about the legendary vampire Count Dracula.",
+      "coverImageUrl": "https://covers.openlibrary.org/b/id/7024187-L.jpg",
+      "pages": 418,
+      "language": "English",
+      "id": "dce0"
+    }
+  ],
+  "cart": []
+}
